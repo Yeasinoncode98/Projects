@@ -10,7 +10,7 @@ This repository contains multiple standalone web projects. Some examples:
 
 | 🚀 Project Name      | 💬 Description |
 |----------------------|----------------|
-| **Juice UI**         | A vibrant juice selector interface with rotating wheels and animated text |
+| **Juice_Card_Landing_PageI**         | A vibrant juice selector interface with rotating wheels and animated text |
 | **Login Form**       | A clean and modern login form with smooth CSS transitions |
 | **Animated Gallery** | An image gallery with hover zoom and grid layout |
 | **To-Do App**        | A simple task list app built using vanilla JS |
