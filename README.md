@@ -1,61 +1,117 @@
 # 🚀 Yeasin Arafat's Projects Repo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum+!!+I+am+Yeasin+Arafat.&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum!!+I+am+Yeasin+Arafat.&center=true&width=600&height=60&color=00a4a2" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🔥 Projects List
+## 🔥 Projects Showcase
 
-| No  | Project Name                | Description                | Live Demo                                                |
-|------|----------------------------|----------------------------|----------------------------------------------------------|
-| 01   | 🔐 Simple Login Page        | Clean & minimal login page | [View](https://yeasinoncode98.github.io/Projects/01_Login_Page/) |
-| 02   | 💼 Digital Business Card    | Modern digital card        | [View](https://yeasinoncode98.github.io/Projects/02_Business_Card/) |
-| 03   | 🎬 Animated Login Interface | Cool animated login UI     | [View](https://yeasinoncode98.github.io/Projects/03_Animated_LoginPage/) |
-| 04   | 💳 Interactive Credit Card  | Stylish credit card UI     | [View](https://yeasinoncode98.github.io/Projects/04_Credit_Card/) |
-| 05   | 🧊 Glassmorphism Login Form | Glass-effect login form    | [View](https://yeasinoncode98.github.io/Projects/05_Modern_Glassmorphism_Login_Form/) |
-| 06   | 🌍 Stylish Landing Page     | Responsive landing page    | [View](https://yeasinoncode98.github.io/Projects/06_Landing_Page_/) |
-| 07   | 🧃 Juice Card Landing Page  | Product landing UI         | [View](https://yeasinoncode98.github.io/Projects/07_Juice_Card_Landing_Page/) |
-| 08   | ⏰ CSS Animated Clock       | Pure CSS animated clock    | [View](https://yeasinoncode98.github.io/Projects/08_Animated_Clock/) |
-| 09   | 💡 Glowing Hover Buttons    | Stylish glowing buttons    | [View](https://yeasinoncode98.github.io/Projects/09_Glowing_Buttons/) |
-| 10   | 🍽️ Responsive Nav Menu     | Sliding responsive menu    | [View](https://yeasinoncode98.github.io/Projects/10_Menu_NavBar_/) |
+<table>
+  <thead>
+    <tr>
+      <th align="center">No</th>
+      <th align="left">Project Name</th>
+      <th align="left">Description</th>
+      <th align="center">Live Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">01</td>
+      <td>🔐 Simple Login Page</td>
+      <td>Clean & minimal login page</td>
+      <td align="center"><a href="https://yeasinoncode98.github.io/Projects/01_Login_Page/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td align="center">02</td>
+      <td>💼 Digital Business Card</td>
+      <td>Modern digital card</td>
+      <td align="center"><a href="https://yeasinoncode98.github.io/Projects/02_Business_Card/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td align="center">03</td>
+      <td>🎬 Animated Login Interface</td>
+      <td>Cool animated login UI</td>
+      <td align="center"><a href="https://yeasinoncode98.github.io/Projects/03_Animated_LoginPage/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td align="center">04</td>
+      <td>💳 Interactive Credit Card UI</td>
+      <td>Stylish credit card UI</td>
+      <td align="center"><a href="https://yeasinoncode98.github.io/Projects/04_Credit_Card/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td align="center">05</td>
+      <td>🧊 Glassmorphism Login Form</td>
+      <td>Glass-effect login form</td>
+      <td align="center"><a href="https://yeasinoncode98.github.io/Projects/05_Modern_Glassmorphism_Login_Form/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td align="center">06</td>
+      <td>🌍 Stylish Landing Page</td>
+      <td>Responsive landing page</td>
+      <td align="center"><a href="https://yeasinoncode98.github.io/Projects/06_Landing_Page_/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td align="center">07</td>
+      <td>🧃 Juice Card Landing Page</td>
+      <td>Product landing UI</td>
+      <td align="center"><a href="https://yeasinoncode98.github.io/Projects/07_Juice_Card_Landing_Page/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td align="center">08</td>
+      <td>⏰ CSS Animated Clock</td>
+      <td>Pure CSS animated clock</td>
+      <td align="center"><a href="https://yeasinoncode98.github.io/Projects/08_Animated_Clock/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td align="center">09</td>
+      <td>💡 Glowing Hover Buttons</td>
+      <td>Stylish glowing buttons</td>
+      <td align="center"><a href="https://yeasinoncode98.github.io/Projects/09_Glowing_Buttons/" target="_blank">View</a></td>
+    </tr>
+    <tr>
+      <td align="center">10</td>
+      <td>🍽️ Responsive Nav Menu</td>
+      <td>Sliding responsive menu</td>
+      <td align="center"><a href="https://yeasinoncode98.github.io/Projects/10_Menu_NavBar_/" target="_blank">View</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 💻 Skills & Tools
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📱 Contact Me
-
 <p align="center">
-  <a href="https://www.facebook.com/share/19S3yd8Ubh/?mibextid=wwXIfr" target="_blank">Facebook</a> • 
-  <a href="mailto:devoncode98@gmail.com" target="_blank">Email</a> • 
-  <a href="https://wa.me/8801627800198" target="_blank">WhatsApp</a>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## ✨ Quote
+## ⚡ GitHub Stats
 
-> "Do work hard, consistency and hard work will reach you to your destiny in shaa Allah."  
-> — Yeasin Arafat
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeasinoncode98&show_icons=true&theme=radical" alt="Yeasin Arafat GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeasinoncode98&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-Thanks for stopping by! ☕😊
+## 📊 Progress Bar - Skills Level
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Happy+Coding!+🚀&center=true&width=300&height=40" />
-</p>
+```markdown
+HTML   : ██████████ 100%
+CSS    : █████████  90%
+JavaScript: ████████  80%
+React  : ██████    60%
+NodeJS : █████     50%
